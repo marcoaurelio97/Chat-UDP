@@ -1,7 +1,0 @@
-C:\Users\marki\Desktop\faculdade\Programação Distribuída\Client UDP\Client UDP\bin\Debug\Client UDP.exe.config
-C:\Users\marki\Desktop\faculdade\Programação Distribuída\Client UDP\Client UDP\bin\Debug\Client UDP.exe
-C:\Users\marki\Desktop\faculdade\Programação Distribuída\Client UDP\Client UDP\bin\Debug\Client UDP.pdb
-C:\Users\marki\Desktop\faculdade\Programação Distribuída\Client UDP\Client UDP\obj\Debug\Client UDP.csproj.CoreCompileInputs.cache
-C:\Users\marki\Desktop\faculdade\Programação Distribuída\Client UDP\Client UDP\obj\Debug\Client UDP.exe
-C:\Users\marki\Desktop\faculdade\Programação Distribuída\Client UDP\Client UDP\obj\Debug\Client UDP.pdb
-C:\Users\marki\Desktop\faculdade\Programação Distribuída\Client UDP\Client UDP\obj\Debug\Client UDP.csprojAssemblyReference.cache
