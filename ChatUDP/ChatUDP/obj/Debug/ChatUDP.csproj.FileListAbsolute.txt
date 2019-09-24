@@ -1,0 +1,7 @@
+C:\Users\marki\Desktop\faculdade\Programação Distribuída\Programas\ChatUDP\ChatUDP\bin\Debug\ChatUDP.exe.config
+C:\Users\marki\Desktop\faculdade\Programação Distribuída\Programas\ChatUDP\ChatUDP\bin\Debug\ChatUDP.exe
+C:\Users\marki\Desktop\faculdade\Programação Distribuída\Programas\ChatUDP\ChatUDP\bin\Debug\ChatUDP.pdb
+C:\Users\marki\Desktop\faculdade\Programação Distribuída\Programas\ChatUDP\ChatUDP\obj\Debug\ChatUDP.csprojAssemblyReference.cache
+C:\Users\marki\Desktop\faculdade\Programação Distribuída\Programas\ChatUDP\ChatUDP\obj\Debug\ChatUDP.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\faculdade\Programação Distribuída\Programas\ChatUDP\ChatUDP\obj\Debug\ChatUDP.exe
+C:\Users\marki\Desktop\faculdade\Programação Distribuída\Programas\ChatUDP\ChatUDP\obj\Debug\ChatUDP.pdb
